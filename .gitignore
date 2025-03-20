@@ -60,4 +60,4 @@ node_modules/
 
 # Other potentially sensitive files
 **/mcademy-52097*
-**/*token=* 
+**/*token=* remove_secrets.sh
